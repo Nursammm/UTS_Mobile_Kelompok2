@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Eco Track</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="heroes_name">Berita</string>
+    <string name="description">panduan</string>
+    <string-array name="data_name">
+        <item>Kantong kresek dominasi sampah plastik di kota palu</item>
+        <item>Pengembangan harus selaras dengan pengelolaan lingkungan</item>
+        <item>Cara menjaga lingkungan untuk kelestarian alam</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Dinas Lingkungan Hidup Kota Palu, Sulawesi Tengah, menyebutkan kantongan kresek paling mendominasi sampah berbahan pastik di kota itu yang kini persentasenya sebanyak 30 persen dari sampah organik.
+            Sekretaris Dinas Lingkungan Hidup (DLH) Kota Palu Firman, di Palu, Jumat, mengatakan produksi sampah di Ibu Kota Sulawesi Tengah yang diangkut dari tempat pembuangan sementara ke tempat pembuangan akhir
+            mencapai 117 ton per hari. "Kalau rata-rata per ritasi satu armada mengangkut sampah satu ton, maka dalam sehari empat ritasi per satu armada mampu mengangkut sedikitnya tiga hingga empat ton sampah," ungkap Firman.
+            Dia menjelaskan, sampah plastik terbagi dua jenis yakni keras dan lunak. Khusus sampah plastik keras baik bentuk botol maupun gelas minuman air mineral dan sebagainnya diolah melalui rumah pengelolaan sampah anorganik di
+            Kelurahan Tondo dan tempat pengelolaan sampah dengan sistem mengurai menggunakan daur ulang atau TPS3R memakai mesin pencacah lalu di jual ke Pulau Jawa</item>
+        <item>Pemerintah Kota Palu mengatakan pembangunan berkelanjutan di ibu kota Provinsi Sulawesi Tengah itu harus selaras dengan pengelolaan lingkungan hidup supaya memberikan dampak positif terhadap kelangsungan hidup warga.
+            "Kami menyadari kalau pengelolaan lingkungan yang tidak serasi dan tidak memadai dengan manusia, akan membawa pengaruh besar bagi kesejahteraan manusia di masa depan," kata Kepala Dinas Lingkungan Hidup (DLH) Kota Palu Moh
+            Arif saat menghadiri aksi bersih sungai rangkaian kegiatan menuju 10 tahun peringatan World Water Forum, di Palu, Kamis. Ia menjelaskan, aspek pembangunan kawasan perkotaan selalu memasukkan nuansa lingkungan hidup guna menjaga
+            keserasian antara aktifitas manusia dan alam, supaya terjadi keseimbangan guna meminimalisir efek perubahan iklim yang bila tidak diatur pemanfaatan sumber daya di alam dapat menimbulkan dampak bencana hidrometeorologi, salah satunya banjir.
+            Oleh karena itu, aksi bersih sungai merupakan bentuk perhatian terhadap lingkungan, bagaimana para pihak menjaga Sumbar daya air supaya tidak tercemar limbah.
+        </item>
+        <item>Cara menjaga lingkungan agar tetap bersih memang wajib untuk dilakukan oleh siapapun. Hal tersebut bukan tanpa alasan karena lingkungan yang bersih dimana bebas dari polusi udara, air serta suasana yang sejuk akan memberikan banyak manfaat bagi para penduduk bumi. Ini juga akan membuat anda lebih nyaman dan tenang dalam menjalani kehidupan.
+            1. Hindari membuang sampah sembarangan.
+            2. Cobalah melakukan daur ulang barang-barang bekas.
+            3. Bersihkan lingkungan secara rutin.
+            4. Hindari penebangan pohon secara liar.
+        </item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/sampah</item>
+        <item>@drawable/lingkungan</item>
+        <item>@drawable/tips</item>
+    </integer-array>
+</resources>
